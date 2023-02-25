@@ -1,0 +1,73 @@
+.container-signin{
+  background-color: rgb(58, 61, 239);
+  height: 100vh; 
+  display: flex; 
+}
+
+.main-container-sigin{
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 20px;
+    padding:20px;
+    width: 50%;
+    margin:50px auto;
+    box-sizing: border-box;
+}
+
+.main-signin{
+    margin: auto;
+    width: 80%;
+    /* border:2px solid green; */
+    height: 100%;
+}
+
+.signin-header{
+text-align: center;
+padding: 30px;
+font-family: 'Lucida Sans Unicode';
+/* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+font-weight: 600;
+font-size: 50px;
+
+}
+.in-signin{
+width: 98%;
+height: 40px;
+
+}
+.input-container{
+    padding:0 0 1em 0;
+    
+}
+.pass-heading,.email-heading{
+    font-size: 25px;
+    padding:0 0 0.2em 0;
+    font-weight: 500;
+}
+.Remember{
+    font-weight: 500;
+    font-size: 20px;
+    
+}
+.x{
+    width: 20px;
+    height: 20px;
+  
+}
+.sign-in-btn{
+    height: 50px;
+    width: 100%;
+  background:rgb(58, 61, 239);
+  border-radius: 30px;
+  font-size: 25px;
+  font-weight: 600;
+  color: white;
+  border: 1px solid white;
+}
+.forget{
+    float: right;
+    font-size: 20px;
+}
+.forget-pass{
+    color: rgb(58, 61, 239);
+}
