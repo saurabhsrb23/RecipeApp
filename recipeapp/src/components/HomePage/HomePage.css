@@ -1,0 +1,63 @@
+.home-container{
+    background-color: aliceblue;
+    display: flex;
+    
+}
+.logo{
+
+    font-size: 25px;
+}
+.logo-h{
+    font-weight: 400;
+    font-size: 25px;
+}
+.home-container-main{
+    margin:0 40px;
+    width: 100%;
+    height: 100vh;
+}
+.logo-header{
+    margin: 20px 0;
+}
+.search-div{
+    width: 30%;
+    margin: 0px auto;
+    margin-top: 50px;
+}
+.search{
+    width: 98%;
+    height: 40px;
+    background-color: rgb(42, 42, 42);
+    border-radius: 5px;
+    border: 2px solid white;
+    color: white;
+    font-size: 25px;
+}
+.search-btn-div{
+    margin: 0px auto;
+    margin-top: 30px;
+    width: 60px;
+}
+.search-btn{
+    height: 60px;
+    width: 60px;
+    border-radius: 10px;
+    border: 2px solid white;
+    color: white;
+    background: rgb(42, 42, 42);
+}
+.all-recipes{
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.card-section{
+    /* border: 2px solid red; */
+    width: 100%;
+    display:inline;
+}
+.toggle-box{
+    margin-top: 30px;
+    height: 70vh;
+    /* border: 2px solid red; */
+}

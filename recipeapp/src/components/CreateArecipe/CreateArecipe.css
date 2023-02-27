@@ -1,0 +1,48 @@
+.createContianer{
+    background-color: black;
+    color: white;
+    display: flex;
+}
+.main-createContianer{
+    /* border: 2px solid red; */
+    width: 70%;
+    height: 100vh;
+    margin: 0px auto;
+}
+.main-header{
+    margin-top: 20px;
+    font-size: 50px;
+    
+}
+.main-header-das{
+    font-size: 25px;
+
+}
+.info-header{
+    color: grey;
+    padding: 10px 0;
+}
+.input-create{
+    margin: 10px 0;
+}
+.recipe-title,.author,.file,.RD,.IG{
+    width: 99%;
+    height: 30px;
+}
+#recipeDirections{
+
+    height: 80px;
+}
+#ingredients{
+    height: 80px;
+}
+.heading-create{
+    margin-bottom:5px ;
+}
+.sub-create{
+    border: 2px solid white;
+    border-radius: 20px;
+    width: 30%;
+    height: 40px;
+    font-size: 20px;
+}
